@@ -8,6 +8,10 @@ public class Sample {
 
 		System.out.println(a);
 
+		String s = "java";
+
+		System.out.println(s.charAt(3));
+
 		int b[] = { 10, 20, 30, 40 };
 
 		System.out.println(b[1]);
